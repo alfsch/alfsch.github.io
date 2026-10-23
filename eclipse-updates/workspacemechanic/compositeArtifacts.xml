@@ -3,9 +3,10 @@
 <repository name='Workspace Mechanic Updates' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='2'>
     <property name='p2.compressed' value='false'/>
-    <property name='p2.timestamp' value='1792789365402'/>
+    <property name='p2.timestamp' value='1792789443019'/>
   </properties>
-  <children size='1'>
+  <children size='2'>
     <child location='legacy'/>
+    <child location='0.6.1'/>
   </children>
 </repository>
